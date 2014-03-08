@@ -1,0 +1,10 @@
+This is another simple and frivolous project.  A student showed me a page illustrated a table with three columns that could be used to make an insult.  It looked liek it should be coded up, and I had 15 minutes to spare, so I did.
+
+<h3>Links</h3>
+
+<a href="http://www.aidansean.com/insult">Live page</a>
+<a href="https://github.com/aidansean/insult">GitHub repository</a>
+
+<h3>Overview</h3>
+
+The insult is generated randomly using PHP.  This ensures that the user has no way to know in advance how many possible insults there are, or how many combinations are available.

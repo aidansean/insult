@@ -1,0 +1,12 @@
+div#insult
+{
+  font-family : georgia , serif ;
+  font-style : italic ;
+  text-align : center ;
+  background-color : white ;
+  color : black ;
+  font-size : 30pt ;
+  padding : 1em ;
+  margin : 2em ;
+  border : 2px solid black ;
+}
