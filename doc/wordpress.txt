@@ -7,4 +7,4 @@ This is another simple and frivolous project.  A student showed me a page illust
 
 <h3>Overview</h3>
 
-The insult is generated randomly using PHP.  This ensures that the user has no way to know in advance how many possible insults there are, or how many combinations are available.
+The insult is generated randomly using PHP.  This ensures that the user has no way to know in advance how many possible insults there are, or how many combinations are available.  This can, of course, be extended to anything, and may be used to give random compliments in the future.
